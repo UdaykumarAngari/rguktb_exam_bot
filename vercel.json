@@ -1,6 +1,0 @@
-{
-  "functions": {
-    "api/run.py": { "runtime": "python3.11" },
-    "api/backfill.py": { "runtime": "python3.11" }
-  }
-}
